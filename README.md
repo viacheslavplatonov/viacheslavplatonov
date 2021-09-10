@@ -10,4 +10,4 @@ Contacts:
 - codewars: https://www.codewars.com/users/V1acheslav (просто чтобы был, быть может там уже не 8 kyu :D)
 - HH: https://hh.ru/resume/9e538884ff075e4aac0039ed1f495059795154
 
-studying swift since February 2021
+З.Ы. Studying swift since February 2021
