@@ -2,8 +2,6 @@
 
 Славик, 25 лет.
 
-**I am looking for a job as an trainee / junior ios developer :)**
-
 Contacts:
 - тг: @viacheslav_platonov
 - slava.p12@yandex.ru
