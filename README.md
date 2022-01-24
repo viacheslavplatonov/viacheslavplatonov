@@ -7,5 +7,3 @@ Contacts:
 - slava.p12@yandex.ru
 
 codewars: https://www.codewars.com/users/V1acheslav (просто чтобы был, быть может там уже не 8 kyu :D)
-
-З.Ы. Studying swift since February 2021
