@@ -1,11 +1,14 @@
 # As they say, hello, world!
 
-Славик, 25 лет.
+## Slavik, 25 years. ##
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ 
+ 🌱 I’m currently learning how to make ios app better :)
+  
+ 🤔 [<img src="https://www.codewars.com/users/V1acheslav/badges/small">](https://www.codewars.com/users/V1acheslav)
+ 
+ 💬 I am a biotechnologist by education, but something went wrong 🤷‍♂️
 
 Contacts:
-- тг: @viacheslav_platonov
-- slava.p12@yandex.ru
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-codewars: https://www.codewars.com/users/V1acheslav (просто чтобы был, быть может там уже не 8 kyu :D)
+- Telegram: @vplatonovv
+- E-mail: slava.p12@yandex.ru
