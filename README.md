@@ -6,8 +6,6 @@
  🌱 I’m currently learning how to make ios app better :)
   
  🤔 [<img src="https://www.codewars.com/users/V1acheslav/badges/small">](https://www.codewars.com/users/V1acheslav)
- 
- 💬 I am a biotechnologist by education, but something went wrong 🤷‍♂️
 
 Contacts:
 - Telegram: @vplatonovv
