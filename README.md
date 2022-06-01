@@ -7,6 +7,10 @@
   
  🤔 [<img src="https://www.codewars.com/users/V1acheslav/badges/small">](https://www.codewars.com/users/V1acheslav)
 
+
+
+
+
 Contacts:
 - Telegram: @vplatonovv
 - E-mail: slava.p12@yandex.ru
