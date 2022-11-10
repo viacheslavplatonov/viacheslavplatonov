@@ -1,12 +1,12 @@
-# As they say, hello, world!
+## Hello there, my name is Viacheslav 🙂
 
-## Slavik, 25 years. ##
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" height="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350" height="500">
  
- 🌱 I’m currently learning how to make ios app better :)
-  
- 🤔 [<img src="https://www.codewars.com/users/V1acheslav/badges/small">](https://www.codewars.com/users/V1acheslav)
+ - 🌱 I’m currently learning how to make ios app better :)
+ - 📚 In addition, I try to be in good shape all the time, which helps the technical literature and some conference
+   
+ ![Codewars](https://github.r2v.ch/codewars?user=vplatonovv&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
-Contacts:
-- Telegram: @vplatonovv
-- E-mail: slava.p12@yandex.ru
+ 📱 How to reach me: 
+  - Telegram: @vplatonovv
+  - e-mail: slava.p12@yandex.ru
