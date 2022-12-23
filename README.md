@@ -1,4 +1,4 @@
-## Hello there 🙂
+## Hello 🙂
  
  - 🌱 I’m currently learning how to make ios app better :)
  - 📚 In addition, I try to be in good shape all the time, which helps the technical literature and some conference
