@@ -1,6 +1,4 @@
-## Hello there, my name is Viacheslav 🙂
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" height="400">
+## Hello there 🙂
  
  - 🌱 I’m currently learning how to make ios app better :)
  - 📚 In addition, I try to be in good shape all the time, which helps the technical literature and some conference
